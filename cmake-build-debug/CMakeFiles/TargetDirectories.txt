@@ -1,0 +1,3 @@
+/home/bins/Document/CLionProjects/WordAnalyze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bins/Document/CLionProjects/WordAnalyze/cmake-build-debug/CMakeFiles/WordAnalyze.dir
+/home/bins/Document/CLionProjects/WordAnalyze/cmake-build-debug/CMakeFiles/edit_cache.dir

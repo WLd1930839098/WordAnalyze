@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/WordAnalyze.dir/main.cpp.o  -o WordAnalyze 
